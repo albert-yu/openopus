@@ -78850,7 +78850,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Moderato",
+            "II. Adagio",
+            "III. Allegro molto"
+          ]
         },
         {
           "title": "Cello Concerto no. 2 in D major, Hob.VII:2",
@@ -79042,7 +79047,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Vocal"
+          "genre": "Vocal",
+          "movements": [
+            "Spring",
+            "Summer",
+            "Autumn",
+            "Winter"
+          ]
         },
         {
           "title": "Die Sch\u00f6pfung, Hob.XXI:2, \"The Creation\"",
@@ -79050,7 +79061,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Vocal"
+          "genre": "Vocal",
+          "movements": [
+            "Part 1",
+            "Part 2",
+            "Part 3"
+          ]
         },
         {
           "title": "Die Sieben letzten Worte unseres Erl\u00f6sers am Kreuze, Hob.XX:2",
@@ -79892,9 +79908,9 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Vivace",
-            "Un poco adagio",
-            "Rondo all'Ungarese"
+            "I. Vivace",
+            "II. Un poco adagio",
+            "III. Rondo all'Ungarese"
           ]
         },
         {
@@ -81655,7 +81671,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Allegro",
+            "II. Poco adagio - cantabile",
+            "III. Menuetto. Allegro",
+            "IV. Finale. Presto"
+          ]
         },
         {
           "title": "String Quartet in C minor, Hob.III:28, op. 17, no. 4 ",
@@ -81687,7 +81709,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Allegro di molto",
+            "II. Adagio",
+            "III. Menuet alla Zingarese",
+            "IV. Presto"
+          ]
         },
         {
           "title": "String Quartet in D major, Hob.III:42, no. 33, op. 33, no. 6",
@@ -81719,7 +81747,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Allegro Moderato",
+            "II. Adagio",
+            "III. Menuet",
+            "IV. Finale"
+          ]
         },
         {
           "title": "String Quartet in D major, Hob.III:70, op. 71, no. 2",
@@ -81751,7 +81785,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Allegro",
+            "II. Andante o pi\u00f9 tosto allegretto",
+            "III. Menuetto. Allegro ma non troppo",
+            "IV. Vivace assai"
+          ]
         },
         {
           "title": "String Quartet in D minor, Hob.III:83, op. 103 ",
@@ -82041,10 +82081,10 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Adagio - Allegro",
-            "Allegretto",
-            "Minuet - Trio. Moderato",
-            "Finale: Presto"
+            "I. Adagio - Allegro",
+            "II. Allegretto",
+            "III. Menuet & Trio",
+            "IV. Finale. Presto"
           ]
         },
         {
@@ -82053,7 +82093,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Adagio - Presto",
+            "II. Andante",
+            "III. Menuetto. Allegretto",
+            "IV. Finale. Vivace"
+          ]
         },
         {
           "title": "Symphony no. 102 in B flat major, Hob.I:102",
@@ -82071,10 +82117,10 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Adagio \u2013 Allegro con spirito",
-            "Andante pi\u00f9 tosto allegretto",
-            "Menuetto",
-            "Finale: Allegro con spirito"
+            "I. Adagio - Allegro con spirito",
+            "II. Andante pi\u00f9 tosto allegretto",
+            "III. Menuetto",
+            "IV. Finale: Allegro con spirito"
           ]
         },
         {
@@ -82085,10 +82131,10 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Adagio \u2013 Allegro",
-            "Andante",
-            "Menuetto and Trio: Allegro",
-            "Finale: Spiritoso"
+            "I. Adagio - Allegro",
+            "II. Andante",
+            "III. Menuetto and Trio: Allegro",
+            "IV. Finale: Spiritoso"
           ]
         },
         {
@@ -82411,10 +82457,10 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Allegro assai",
-            "Adagio",
-            "Menuet. Allegretto \u2013 Trio",
-            "Finale. Presto \u2013 Adagio"
+            "I. Allegro assai",
+            "II. Adagio",
+            "III. Menuet e Trio: Allegretto",
+            "IV. Finale: Presto - Adagio"
           ]
         },
         {
@@ -82439,7 +82485,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro",
+            "II. Adagio",
+            "III. Menuet. Allegretto - Trio",
+            "IV. Finale. Allegro"
+          ]
         },
         {
           "title": "Symphony no. 49 in F minor, Hob.I:49, \"La passione\"",
@@ -82447,7 +82499,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Adagio",
+            "II. Allegro di molto",
+            "III. Menuet",
+            "IV. Finale. Presto"
+          ]
         },
         {
           "title": "Symphony no. 5 in A major, Hob.I:5",
@@ -82543,7 +82601,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Adagio - Allegro",
+            "II. Adagio - Andante - Adagio",
+            "III. Minuet - Trio",
+            "IV. Finale. Allegro"
+          ]
         },
         {
           "title": "Symphony no. 60 in C, Hob.I:60, \"Il Distratto\"",
@@ -82623,7 +82687,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Adagio - Allegro",
+            "II. Recitativo: Adagio",
+            "III. Menuetto and Trio",
+            "IV. Finale: Allegro"
+          ]
         },
         {
           "title": "Symphony no. 70 in D major, Hob.I:70",
@@ -82711,7 +82781,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro molto",
+            "II. Andante",
+            "III. Minuet - Trio",
+            "IV. La Tempesta. Presto"
+          ]
         },
         {
           "title": "Symphony no. 80 in D minor, Hob.I:80",
@@ -82841,10 +82917,10 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Adagio \u2013 Vivace assai",
-            "Andante",
-            "Menuetto: Allegro molto",
-            "Finale: Allegro molto"
+            "I. Adagio cantabile - Vivace assai",
+            "II. Andante",
+            "III. Menuetto: Allegro molto",
+            "IV. Finale: Allegro molto"
           ]
         },
         {
@@ -82861,7 +82937,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Adagio - Allegro",
+            "II. Andante",
+            "III. Menuetto: Allegretto",
+            "IV. Finale: Vivace"
+          ]
         },
         {
           "title": "Symphony no. 97 in C major, Hob.I:97",
@@ -83077,7 +83159,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro",
+            "II. Andante",
+            "III. Allegro"
+          ]
         },
         {
           "title": "Twas at the hour of dark midnight, Hob.XXXIa:31bis",
@@ -83480,7 +83567,11 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Movement 1: Moderato - Vivace - Moderato",
+            "Movement 2: Vivace - Lento - Vivace"
+          ]
         },
         {
           "title": "Prison Song, for percussion",
@@ -83656,7 +83747,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Tanz",
+            "II. Ruhig bewegt",
+            "III. Unabl\u00e4ssig in Bewegung",
+            "IV. Ruhig, verhalten"
+          ]
         },
         {
           "title": "Symphony no. 8",
@@ -83835,7 +83932,12 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro impetuoso",
+            "II. Lento",
+            "III. Allegro"
+          ]
         },
         {
           "title": "Columbus Suite, op. 35",
@@ -84462,7 +84564,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Musica Instrumentalis",
+            "II. Musica Humana",
+            "III. Musica Mundana"
+          ]
         },
         {
           "title": "Die Junge Magd, song cycle for alto, flute, clarinet, and string quartet, op. 23b",
@@ -84606,7 +84713,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Schnelle Halbe",
+            "II. Langsam",
+            "III. M\u00e4\u00dfig schnell",
+            "IV. Variante eines Milit\u00e4rmarsches"
+          ]
         },
         {
           "title": "Kammermusik no. 6, for viola d'amore and chamber orchestra, op. 46, no. 1",
@@ -84702,7 +84815,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Keyboard"
+          "genre": "Keyboard",
+          "movements": [
+            "Praeludium",
+            "Interludes and Fugues 1-12",
+            "Postludium"
+          ]
         },
         {
           "title": "Lustige Sinfonietta, for small orchestra, op. 4",
@@ -84734,7 +84852,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Stage"
+          "genre": "Stage",
+          "movements": [
+            "Tableau 1-7"
+          ]
         },
         {
           "title": "Meditation, for violin ",
@@ -85086,7 +85207,13 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro",
+            "II. Turandot, Scherzo",
+            "III. Andantino",
+            "IV. Marsch"
+          ]
         },
         {
           "title": "Symphonische Tanze",
@@ -85126,7 +85253,12 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Engelkonzert",
+            "II. Grablegung",
+            "III. Versuchung des heiligen Antonius"
+          ]
         },
         {
           "title": "The 4 Temperaments, for piano and strings",
@@ -85433,7 +85565,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro",
+            "II. Adagio",
+            "III. Allegro"
+          ]
         },
         {
           "title": "Chamber Concerto no. 12, for trombone and orchestra, op. 5 2 ",
@@ -85753,7 +85890,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Tranquillo",
+            "II. Scherzando: Allegro",
+            "III. Improvisazione: Andante rubato",
+            "IV. Con moto: Allegro molto"
+          ]
         },
         {
           "title": "Nuigen, for piano trio, op. 129",
@@ -86217,7 +86360,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Impressioni",
+            "II. Lamentazione",
+            "III. Espressione"
+          ]
         },
         {
           "title": "Symphony no. 3 \"Sinfonia Rustica\", op. 25 ",
@@ -86225,7 +86373,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Brujdans",
+            "II. Skammelsen-Variationer",
+            "III. Bryde Kloster"
+          ]
         },
         {
           "title": "Symphony no. 4 ",
@@ -86241,7 +86394,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro non troppo",
+            "II. Andante affettuoso",
+            "III. Vivace"
+          ]
         },
         {
           "title": "Symphony no. 6, op. 43 ",
@@ -86249,7 +86407,11 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Adagio - Allegro - Adagio",
+            "II. Allegro Molto E Con Fuoco"
+          ]
         },
         {
           "title": "Symphony no. 7, op. 50 ",
@@ -86257,7 +86419,17 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Allegro Con Fuoco",
+            "Intermedio I",
+            "Adagio",
+            "Intermedio II",
+            "Presto",
+            "Intermedio III",
+            "Coda",
+            "Andante"
+          ]
         },
         {
           "title": "Symphony no. 8 \"Sinfonia Boreale\", op. 56 ",
