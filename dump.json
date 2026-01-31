@@ -168428,7 +168428,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Vocal"
+          "genre": "Vocal",
+          "movements": [
+            "I. Concert in Form einer teutschen Begr\u00e4bnis-Messe",
+            "II. Motet Herr, wenn ich nur Dich habe",
+            "III. Canticum Simeonis Herr, nun l\u00e4ssest du deinen Diener"
+          ]
         },
         {
           "title": "O bone Jesu, fili Mariae, for 2 sopranos, 2 altos, tenor, bass, 2 violins, 4 viols and continuo, SWV 471",
@@ -168508,7 +168513,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Vocal"
+          "genre": "Vocal",
+          "movements": [
+            "St. Matthew Passion"
+          ]
         },
         {
           "title": "Symphoniae Sacrae, Book 1, 20 motets for soloists, instruments and continuo, SWV 257-276, op. 6",
@@ -168727,7 +168735,33 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Keyboard"
+          "genre": "Keyboard",
+          "movements": [
+            "No. 1 in C major",
+            "No. 2 in A minor",
+            "No. 3 in G major",
+            "No. 4 in E minor",
+            "No. 5 in D major",
+            "No. 6 in B minor",
+            "No. 7 in A major",
+            "No. 8 in F-sharp minor",
+            "No. 9 in E major",
+            "No. 10 in C-sharp minor",
+            "No. 11 in B major",
+            "No. 12 in G-sharp minor",
+            "No. 13 in G-flat major",
+            "No. 14 in E-flat minor",
+            "No. 15 in D-flat major",
+            "No. 16 in B-flat minor",
+            "No. 17 in A-flat major",
+            "No. 18 in F minor",
+            "No. 19 in E-flat major",
+            "No. 20 in C minor",
+            "No. 21 in B-flat major",
+            "No. 22 in G minor",
+            "No. 23 in F major",
+            "No. 24 in D minor"
+          ]
         },
         {
           "title": "3 Etudes, op. 65",
@@ -168751,7 +168785,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Keyboard"
+          "genre": "Keyboard",
+          "movements": [
+            "I. Etude in C-sharp minor",
+            "II. Prelude in B major",
+            "III. Impromptu a la Mazur in C major"
+          ]
         },
         {
           "title": "3 Pieces, op. 45",
@@ -168951,7 +168990,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Le Poeme de l'extase"
+          ]
         },
         {
           "title": "Mazurka in B minor",
@@ -168983,7 +169025,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro",
+            "II. Andante",
+            "III. Allegro moderato"
+          ]
         },
         {
           "title": "Piano Sonata in E flat minor",
@@ -169039,7 +169086,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Keyboard"
+          "genre": "Keyboard",
+          "movements": [
+            "Piano Sonata no. 5"
+          ]
         },
         {
           "title": "Piano Sonata no. 6 in G major, op. 62",
@@ -169135,7 +169185,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Prometheus: The Poem of Fire"
+          ]
         },
         {
           "title": "Quasi-valse in F major, op. 47",
@@ -169215,7 +169268,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Introduction",
+            "I. Luttes (Struggles)",
+            "II. Voluptes (Delights)",
+            "III. Jeu divin (Divine Play)"
+          ]
         },
         {
           "title": "Valse in A flat major, op. 38",
@@ -169322,7 +169381,33 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Keyboard"
+          "genre": "Keyboard",
+          "movements": [
+            "No. 1 in C major",
+            "No. 2 in A minor",
+            "No. 3 in G major",
+            "No. 4 in E minor",
+            "No. 5 in D major",
+            "No. 6 in B minor",
+            "No. 7 in A major",
+            "No. 8 in F-sharp minor",
+            "No. 9 in E major",
+            "No. 10 in C-sharp minor",
+            "No. 11 in B major",
+            "No. 12 in G-sharp minor",
+            "No. 13 in F-sharp major",
+            "No. 14 in E-flat minor",
+            "No. 15 in D-flat major",
+            "No. 16 in B-flat minor",
+            "No. 17 in A-flat major",
+            "No. 18 in F minor",
+            "No. 19 in E-flat major",
+            "No. 20 in C minor",
+            "No. 21 in B-flat major",
+            "No. 22 in G minor",
+            "No. 23 in F major",
+            "No. 24 in D minor"
+          ]
         },
         {
           "title": "24 Preludes, op. 34",
@@ -169530,7 +169615,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegretto",
+            "II. Moderato",
+            "III. Cadenza",
+            "IV. Allegro con moto"
+          ]
         },
         {
           "title": "Cello Concerto no. 2 in G major, op. 126",
@@ -169666,7 +169757,12 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "0",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Waltz in G minor",
+            "II. Polka in C major",
+            "III. Foxtrot in F-sharp minor"
+          ]
         },
         {
           "title": "Jazz Suite no. 2",
@@ -169714,7 +169810,13 @@
           "searchterms": "Lady Macbeth of the Mtsensk District, Ledi Makbet Mtsenskogo uyezda, Lady Macbeth of Mtsensk",
           "popular": "0",
           "recommended": "1",
-          "genre": "Stage"
+          "genre": "Stage",
+          "movements": [
+            "Act I",
+            "Act II",
+            "Act III",
+            "Act IV"
+          ]
         },
         {
           "title": "Lady Macbeth of the Mtsensk District, op. 29a",
@@ -169826,7 +169928,13 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro moderato",
+            "II. Lento",
+            "III. Moderato",
+            "IV. Allegro con brio"
+          ]
         },
         {
           "title": "Piano Concerto no. 2 in F major, op. 102",
@@ -169842,7 +169950,14 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Prelude: Lento",
+            "II. Fugue: Adagio",
+            "III. Scherzo: Allegretto",
+            "IV. Intermezzo: Lento",
+            "V. Finale: Allegretto"
+          ]
         },
         {
           "title": "Piano Sonata no. 1, op. 12",
@@ -169874,7 +169989,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Andante - Moderato",
+            "II. Allegro con brio",
+            "III. Largo",
+            "IV. Allegretto - Adagio"
+          ]
         },
         {
           "title": "Pirogov, op. 76",
@@ -170074,7 +170195,14 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Largo",
+            "II. Allegro molto",
+            "III. Allegretto",
+            "IV. Largo",
+            "V. Largo"
+          ]
         },
         {
           "title": "String Quartet no. 9 in E flat major, op. 117",
@@ -170122,7 +170250,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Moderato",
+            "II. Allegro",
+            "III. Allegretto - Largo - Piu mosso",
+            "IV. Andante - Allegro"
+          ]
         },
         {
           "title": "Symphony no. 11 in G minor, op. 103, \"The Year 1905\"",
@@ -170154,7 +170288,20 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. De profundis",
+            "II. Malaguena",
+            "III. La Loreley",
+            "IV. Le Suicide",
+            "V. Les Attentives I",
+            "VI. Les Attentives II",
+            "VII. A la Sante",
+            "VIII. Reponse des Cosaques Zaporogues au Sultan de Constantinople",
+            "IX. O Delvig, Delvig!",
+            "X. La Mort du poete",
+            "XI. Conclusion"
+          ]
         },
         {
           "title": "Symphony no. 15 in A major, op. 141",
@@ -170194,7 +170341,13 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Moderato",
+            "II. Allegretto",
+            "III. Largo",
+            "IV. Allegro non troppo"
+          ]
         },
         {
           "title": "Symphony no. 6 in B minor, op. 54",
@@ -170210,7 +170363,13 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegretto",
+            "II. Moderato (poco allegretto)",
+            "III. Adagio",
+            "IV. Allegro non troppo"
+          ]
         },
         {
           "title": "Symphony no. 8 in C minor, op. 65, \"Stalingrad\"",
@@ -170218,7 +170377,14 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Adagio - Allegro non troppo",
+            "II. Allegretto",
+            "III. Allegro non troppo",
+            "IV. Largo",
+            "V. Allegretto"
+          ]
         },
         {
           "title": "Symphony no. 9 in E flat major, op. 70",
@@ -170530,7 +170696,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Nocturne: Moderato",
+            "II. Scherzo: Allegro",
+            "III. Passacaglia: Andante",
+            "IV. Burlesque: Allegro con brio - Presto"
+          ]
         },
         {
           "title": "Violin Concerto no. 2 in C sharp minor, op. 129",
@@ -171725,7 +171897,10 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "En Saga"
+          ]
         },
         {
           "title": "En visa, JS 71",
@@ -171789,7 +171964,10 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Finlandia"
+          ]
         },
         {
           "title": "Florestan, suite, JS 82",
@@ -171997,7 +172175,12 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "0",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Intermezzo",
+            "II. Ballade",
+            "III. Alla Marcia"
+          ]
         },
         {
           "title": "Karelia, for voices and orchestra",
@@ -172045,7 +172228,14 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Introduction",
+            "II. Kullervo's Youth",
+            "III. Kullervo and his Sister",
+            "IV. Kullervo Goes to War",
+            "V. Kullervo's Death"
+          ]
         },
         {
           "title": "Kullervo's Lament ",
@@ -172181,7 +172371,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Luonnotar"
+          ]
         },
         {
           "title": "Maestoso in C minor",
@@ -172653,7 +172846,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Pohjola's Daughter"
+          ]
         },
         {
           "title": "Polka 'Aino' in C minor",
@@ -173045,7 +173241,14 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Andante - Allegro molto moderato",
+            "II. Vivace",
+            "III. Adagio di molto",
+            "IV. Allegretto",
+            "V. Allegro"
+          ]
         },
         {
           "title": "String Quartet in E flat major, JS 184",
@@ -173149,7 +173352,13 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegretto",
+            "II. Tempo andante, ma rubato",
+            "III. Vivacissimo",
+            "IV. Finale: Allegro moderato"
+          ]
         },
         {
           "title": "Symphony no. 3 in C major, op. 52",
@@ -173157,7 +173366,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro moderato",
+            "II. Andantino con moto, quasi allegretto",
+            "III. Moderato - Allegro"
+          ]
         },
         {
           "title": "Symphony no. 4 in A minor, op. 63",
@@ -173165,7 +173379,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Tempo molto moderato, quasi adagio",
+            "II. Allegro molto vivace",
+            "III. Il tempo largo",
+            "IV. Allegro"
+          ]
         },
         {
           "title": "Symphony no. 5 in E flat major, op. 82",
@@ -173173,7 +173393,12 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Tempo molto moderato",
+            "II. Andante mosso, quasi allegretto",
+            "III. Allegro molto"
+          ]
         },
         {
           "title": "Symphony no. 6 in D minor, op. 104",
@@ -173189,7 +173414,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Symphony no. 7"
+          ]
         },
         {
           "title": "Tanken, duo for 2 voices and piano, \"The Thought\"",
@@ -173205,7 +173433,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Tapiola"
+          ]
         },
         {
           "title": "Tempo di valse in A",
@@ -173557,7 +173788,12 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro moderato",
+            "II. Adagio di molto",
+            "III. Allegro, ma non tanto"
+          ]
         },
         {
           "title": "Violin Sonata in A minor",
@@ -173728,7 +173964,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Keyboard"
+          "genre": "Keyboard",
+          "movements": [
+            "I. Polka in F-sharp minor",
+            "II. Polka in A minor",
+            "III. Polka in F major",
+            "IV. Polka in B-flat major"
+          ]
         },
         {
           "title": "6 Preludes, JB 1:30",
@@ -173856,7 +174098,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Hakon Jarl"
+          ]
         },
         {
           "title": "Hubicka, JB 1:104",
@@ -173896,7 +174141,15 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Vysehrad",
+            "II. Vltava (The Moldau)",
+            "III. Sarka",
+            "IV. From Bohemia's Woods and Fields",
+            "V. Tabor",
+            "VI. Blanik"
+          ]
         },
         {
           "title": "Minuet for Orchestra in B flat major, JB 1:10",
@@ -173960,7 +174213,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Richard III"
+          ]
         },
         {
           "title": "Slavnostn\u00ed predehra  in C major, JB 1:95",
@@ -173976,7 +174232,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Keyboard"
+          "genre": "Keyboard",
+          "movements": [
+            "Sonata movement for 2 pianos, 8 hands"
+          ]
         },
         {
           "title": "Souvenir de Boh\u00eame en forme de polkas, Book 1, JB 1:76, op. 12",
@@ -174000,7 +174259,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "I. Allegro vivo appassionato",
+            "II. Allegro moderato a la Polka",
+            "III. Largo sostenuto",
+            "IV. Vivace"
+          ]
         },
         {
           "title": "String Quartet no. 2 in D minor, JB 1:124",
@@ -174032,7 +174297,12 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Stage"
+          "genre": "Stage",
+          "movements": [
+            "Act I",
+            "Act II",
+            "Act III"
+          ]
         },
         {
           "title": "The Curious One ",
@@ -174950,7 +175220,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Adagio - Allegro",
+            "II. Adagio",
+            "III. Rondo: Vivace"
+          ]
         },
         {
           "title": "Clarinet Concerto no. 2 in E flat major, op. 57",
@@ -175918,7 +176193,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Recitative: Allegro molto",
+            "II. Adagio",
+            "III. Allegro moderato"
+          ]
         },
         {
           "title": "Violin Concerto no. 9 in D minor, op. 55",
@@ -176476,7 +176756,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Excelsior!"
+          ]
         },
         {
           "title": "Fantasie for piano in A minor",
@@ -176724,7 +177007,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Molto moderato e maestoso",
+            "II. Vivacissimo",
+            "III. Andante",
+            "IV. Allegro commodo"
+          ]
         },
         {
           "title": "Piano Concerto no. 2 in D minor, op. 23",
@@ -176732,7 +177021,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Moderato",
+            "II. Molto vivace",
+            "III. Adagio",
+            "IV. Tempo moderato"
+          ]
         },
         {
           "title": "Piano Sonata no. 1 in C",
@@ -176788,7 +177083,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Vocal"
+          "genre": "Vocal",
+          "movements": [
+            "Part I",
+            "Interlude",
+            "Part II"
+          ]
         },
         {
           "title": "Serenade in F major, op. 31",
@@ -176796,7 +177096,14 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegramente",
+            "II. Canzonetta",
+            "III. Scherzo",
+            "IV. Notturno",
+            "V. Finale"
+          ]
         },
         {
           "title": "Small Pieces  for piano",
@@ -177028,7 +177335,13 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro energico",
+            "II. Andante",
+            "III. Scherzo: Allegro",
+            "IV. Finale: Sostenuto - Allegro vivace"
+          ]
         },
         {
           "title": "Symphony no. 3",
@@ -177175,7 +177488,10 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Gruppen"
+          ]
         },
         {
           "title": "Helikopter String Quartet, for 4 helicopters and string quartet",
@@ -177231,7 +177547,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "Kontakte"
+          ]
         },
         {
           "title": "Kreuzspiel, for oboe, bass clarinet, piano, and 3 percussionists",
@@ -177618,7 +177937,18 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Einleitung",
+            "Von den Hinterweltlern",
+            "Von dem grossen Sehnen",
+            "Von den Freuden und Leidenschaften",
+            "Das Grablied",
+            "Von der Wissenschaft",
+            "Der Genesende",
+            "Das Tanzlied",
+            "Nachtwandlerlied"
+          ]
         },
         {
           "title": "An den Baum Daphne, WoO137, TrV 272a",
@@ -177794,7 +178124,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Stage"
+          "genre": "Stage",
+          "movements": [
+            "Act I",
+            "Act II",
+            "Act III"
+          ]
         },
         {
           "title": "Der Rosenkavalier, TrV227d",
@@ -177906,7 +178241,10 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Don Juan"
+          ]
         },
         {
           "title": "Don Quixote: Fantastic Variations for Cello and Orchestra, op. 35, TrV184",
@@ -177914,7 +178252,13 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Introduction",
+            "Theme",
+            "Variations 1-10",
+            "Finale"
+          ]
         },
         {
           "title": "Duet-Concertino for Clarinet, Bassoon, Harp and Strings, TrV293",
@@ -177922,7 +178266,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro moderato",
+            "II. Andante",
+            "III. Rondo: Allegro ma non troppo"
+          ]
         },
         {
           "title": "Duet-Concertino for clarinet, bassoon, harp and strings, WoO147, TrV293",
@@ -177946,7 +178295,15 @@
           "searchterms": "Heldenleben",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Der Held",
+            "II. Des Helden Widersacher",
+            "III. Des Helden Gefahrtin",
+            "IV. Des Helden Walstatt",
+            "V. Des Helden Friedenswerke",
+            "VI. Des Helden Weltflucht und Vollendung"
+          ]
         },
         {
           "title": "Ein R\u00f6slein zog ich mir im Garten, WoO49, TrV67",
@@ -177962,7 +178319,31 @@
           "searchterms": "Alpensinfonie, Alpine Symphony, Alpensymphonie",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Nacht",
+            "Sonnenaufgang",
+            "Der Anstieg",
+            "Eintritt in den Wald",
+            "Wanderung neben dem Bache",
+            "Am Wasserfall",
+            "Erscheinung",
+            "Auf blumigen Wiesen",
+            "Auf der Alm",
+            "Durch Dickicht und Gestrupp auf Irrwegen",
+            "Auf dem Gletscher",
+            "Gefahrvolle Augenblicke",
+            "Auf dem Gipfel",
+            "Vision",
+            "Nebel steigen auf",
+            "Die Sonne verfinstert sich allmahlich",
+            "Elegie",
+            "Stille vor dem Sturm",
+            "Gewitter und Sturm, Abstieg",
+            "Sonnenuntergang",
+            "Ausklang",
+            "Nacht"
+          ]
         },
         {
           "title": "Einkehr, TrV3",
@@ -177978,7 +178359,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Stage"
+          "genre": "Stage",
+          "movements": [
+            "One Act"
+          ]
         },
         {
           "title": "Enoch Arden, melodrama for narrator and piano, op. 38, TrV181",
@@ -178058,7 +178442,13 @@
           "searchterms": "Vier letzte lieder,four last songs",
           "popular": "1",
           "recommended": "1",
-          "genre": "Vocal"
+          "genre": "Vocal",
+          "movements": [
+            "I. Fruhling",
+            "II. September",
+            "III. Beim Schlafengehen",
+            "IV. Im Abendrot"
+          ]
         },
         {
           "title": "Friedenstag, op. 81, TrV271",
@@ -178114,7 +178504,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro",
+            "II. Andante con moto",
+            "III. Rondo: Allegro molto"
+          ]
         },
         {
           "title": "Husarenlied, TrV42",
@@ -178250,7 +178645,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Chamber"
+          "genre": "Chamber",
+          "movements": [
+            "Metamorphosen"
+          ]
         },
         {
           "title": "M\u00fcnchen, commemorative waltz WoO140 ",
@@ -178274,7 +178672,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "I. Allegro moderato",
+            "II. Andante",
+            "III. Vivace - Allegro"
+          ]
         },
         {
           "title": "Olympic Hymn, for chorus and orchestra, TrV 266",
@@ -178386,7 +178789,10 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Stage"
+          "genre": "Stage",
+          "movements": [
+            "One Act"
+          ]
         },
         {
           "title": "Sankt Michael, op. 88, TrV280",
@@ -178538,7 +178944,10 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Till Eulenspiegel"
+          ]
         },
         {
           "title": "Tod und Verkl\u00e4rung, op. 24, TrV158",
@@ -178546,7 +178955,10 @@
           "searchterms": "",
           "popular": "1",
           "recommended": "1",
-          "genre": "Orchestral"
+          "genre": "Orchestral",
+          "movements": [
+            "Tod und Verklarung"
+          ]
         },
         {
           "title": "Violin Concerto in D minor, op. 8, TrV110",
@@ -178815,13 +179227,7 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Introduction",
-            "Waltz 1",
-            "Waltz 2",
-            "Waltz 3",
-            "Waltz 4",
-            "Waltz 5",
-            "Coda"
+            "The Blue Danube"
           ]
         },
         {
@@ -179510,7 +179916,12 @@
           "searchterms": "",
           "popular": "0",
           "recommended": "1",
-          "genre": "Stage"
+          "genre": "Stage",
+          "movements": [
+            "Act I",
+            "Act II",
+            "Act III"
+          ]
         },
         {
           "title": "Die Gem\u00fcthlichen, op. 70",
@@ -180208,13 +180619,7 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Introduction",
-            "Waltz 1",
-            "Waltz 2",
-            "Waltz 3",
-            "Waltz 4",
-            "Waltz 5",
-            "Coda"
+            "Tales from the Vienna Woods"
           ]
         },
         {
@@ -180785,12 +181190,7 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Introduction",
-            "Waltz 1",
-            "Waltz 2",
-            "Waltz 3",
-            "Waltz 4",
-            "Coda"
+            "Emperor Waltz"
           ]
         },
         {
@@ -181800,7 +182200,9 @@
           "popular": "1",
           "recommended": "1",
           "genre": "Orchestral",
-          "movements": []
+          "movements": [
+            "Pizzicato Polka"
+          ]
         },
         {
           "title": "Postillon d'amour, polka fran\u00e7aise, op. 317",
@@ -182569,7 +182971,9 @@
           "popular": "1",
           "recommended": "1",
           "genre": "Orchestral",
-          "movements": []
+          "movements": [
+            "Tritsch-Tratsch-Polka"
+          ]
         },
         {
           "title": "Triumph-Marsch, op. 69",
