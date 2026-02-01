@@ -170555,14 +170555,6 @@
           "genre": "Chamber"
         },
         {
-          "title": "Violin Concerto no. 1 in A minor, op. 77 ",
-          "subtitle": "",
-          "searchterms": "",
-          "popular": "0",
-          "recommended": "0",
-          "genre": "Orchestral"
-        },
-        {
           "title": "Violin Concerto no. 1 in A minor, op. 77",
           "subtitle": "",
           "searchterms": "",
@@ -170572,7 +170564,7 @@
           "movements": [
             "I. Nocturne: Moderato",
             "II. Scherzo: Allegro",
-            "III. Passacaglia: Andante",
+            "III. Passacaglia: Andante - Cadenza",
             "IV. Burlesque: Allegro con brio - Presto"
           ]
         },
