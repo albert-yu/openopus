@@ -202933,10 +202933,18 @@
           "recommended": "1",
           "genre": "Orchestral",
           "movements": [
-            "Spring",
-            "Summer",
-            "Autumn",
-            "Winter"
+            "Spring: I. Allegro",
+            "Spring: II. Largo e pianissimo sempre",
+            "Spring: III. Allegro pastorale",
+            "Summer: I. Allegro non molto",
+            "Summer: II. Adagio e piano - Presto e forte",
+            "Summer: III. Presto",
+            "Autumn: I. Allegro",
+            "Autumn: II. Adagio molto",
+            "Autumn: III. Allegro",
+            "Winter: I. Allegro non molto",
+            "Winter: II. Largo",
+            "Winter: III. Allegro"
           ]
         },
         {
